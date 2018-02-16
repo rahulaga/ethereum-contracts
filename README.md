@@ -4,7 +4,12 @@ Using Truffle and Solidity.
 
 ## Escrow
 
+NOTE: this example does not use the best-practice of "withdrawing funds" and needs to be updated.
+
 All commands in `$truffle console`
+
+Migrate contracts
+> migrate --reset
 
 List all accounts
 > web3.eth.accounts
