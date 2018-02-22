@@ -1,6 +1,10 @@
-# Ethereum Contracts
+# Solidity Example Contracts
 
 Using Truffle and Solidity.
+
+### Steps
+* Install Truffle and run Ganache
+* Clone repo and then `npm install`
 
 ## Escrow
 
